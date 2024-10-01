@@ -1,0 +1,27 @@
+#first{
+	background-color: red;
+	width: 150px;
+	height:150px;
+	border: 15px solid green;
+	padding-right: 50px;
+	margin-right: 20px;
+}
+#second{
+	
+	background-color:blue;
+	width: 150px;
+	height:150px;
+	border:15px solid red;
+	margin-left:200px;
+}
+#third{
+	background-color: yellow;
+	width: 150px;
+    height:150px;
+	border: 15px solid grey;
+	margin-left:350px;
+	
+}
+body{
+	background:yellow url("PICTURE/1000015143.jpg") no-repeat fixed top right;
+}

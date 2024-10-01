@@ -1,0 +1,261 @@
+body{
+	background-color:#33ccff;
+	margin:0px;
+}
+#first{
+background-color:blue;
+color:white;
+text-decoration:none;
+font-family:verdana;
+
+}
+#second{
+background-color:yellow;
+color:red;
+text-decoration:none;
+font-family:verdana;
+
+}
+#third{
+background-color:green;
+color:pink;
+text-decoration:none;
+font-family:verdana;
+
+}
+#fourth{
+background-color:grey;
+color:brown;
+text-decoration:none;
+font-family:verdana;
+
+}
+#fifth{
+background-color:white;
+color:black;
+text-decoration:none;
+font-family:verdana;
+
+}
+#sixth{
+background-color:green;
+color:red;
+text-decoration:none;
+font-family:verdana;
+
+}
+#seventh{
+background-color:orange;
+color:blue;
+text-decoration:none;
+font-family:verdana;
+
+
+}
+#first:visited{
+		text-decoration:none;
+		background-color:blue;
+		color:red;
+		padding:5px;
+		border-radius:10px;
+
+}
+#first:hover{
+		text-decoration:none;
+		background-color:white;
+		color:green;
+		padding:5px;
+		border-radius:10px;
+
+}
+#first:active{
+		text-decoration:none;
+		background-color:brown;
+		color:black;
+		padding:5px;
+		border-radius:10px;
+}
+#second:visited{
+		text-decoration:none;
+		background-color:grey;
+		color:red;
+		padding:5px;
+		border-radius:10px;
+
+}
+#second:hover{
+		text-decoration:none;
+		background-color:green;
+		color:white;
+		padding:5px;
+		border-radius:10px;
+
+}
+#second:active{
+		text-decoration:none;
+		background-color:blue;
+		color:black;
+		padding:5px;
+		border-radius:10px;
+}
+#third:visited{
+		text-decoration:none;
+		background-color:grey;
+		color:;
+		padding:5px;
+		border-radius:10px;
+
+}
+#third:hover{
+		text-decoration:none;
+		background-color:black;
+		color:red;
+		padding:5px;
+		border-radius:10px;
+
+}
+#third:active{
+		text-decoration:none;
+		background-color:green;
+		color:black;
+		padding:5px;
+		border-radius:10px;
+}
+#fourth:visited{
+		text-decoration:none;
+		background-color:brown;
+		color:blue;
+		padding:5px;
+		border-radius:10px;
+
+}
+#fourth:hover{
+		text-decoration:none;
+		background-color:orange;
+		color:black;
+		padding:5px;
+		border-radius:10px;
+
+}
+#fourth:active{
+		text-decoration:none;
+		background-color:green;
+		color:brown;
+		padding:5px;
+		border-radius:10px;
+}
+#fifth:visited{
+		text-decoration:none;
+		background-color:yellow;
+		color:red;
+		padding:5px;
+		border-radius:10px;
+
+}
+#fifth:hover{
+		text-decoration:none;
+		background-color:blue;
+		color:black;
+		padding:5px;
+		border-radius:10px;
+
+}
+#fifth:active{
+		text-decoration:none;
+		background-color:grey;
+		color:brown;
+		padding:5px;
+		border-radius:10px;
+}
+#sixth:visited{
+		text-decoration:none;
+		background-color:green;
+		color:red;
+		padding:5px;
+		border-radius:10px;
+
+}
+#sixth:hover{
+		text-decoration:none;
+		background-color:grey;
+		color:black;
+		padding:5px;
+		border-radius:10px;
+
+}
+#sixth:active{
+		text-decoration:none;
+		background-color:blue;
+		color:brown;
+		padding:5px;
+		border-radius:10px;
+}
+#seventh:visited{
+		text-decoration:none;
+		background-color:yellow;
+		color:white;
+		padding:5px;
+		border-radius:10px;
+
+}
+#seventh:hover{
+		text-decoration:none;
+		background-color:blue;
+		color:grey;
+		padding:5px;
+		border-radius:10px;
+
+}
+#seventh:active{
+		text-decoration:none;
+		background-color:grey;
+		color:brown;
+		padding:5px;
+		border-radius:10px;
+}
+#list1{
+list-style:square;	
+	
+
+}
+#list2{
+	list-style:upper-alpha;
+	
+}
+#tb,th,td{
+	border-collapse:collapse;
+	border:3px solid;
+}
+th{
+	background-color:yellow;
+	color:black;
+}
+
+#d1{
+	width:200px;
+	height:200px;
+	background-color:grey;
+	border:10px solid black;
+	padding:20px;
+}
+#d2{
+	width:200px;
+	height:200px;
+	background-color:brown;
+	border:20px solid black;
+	margin-left:260px;
+	
+}
+#d3{
+	width:200px;
+	height:200px;
+	background-color:blue;
+	color:red;
+	border:10px solid black;
+	margin-left:500px;
+	
+}
+p{
+	background-color:#ffff99;
+	color:#998066;
+}

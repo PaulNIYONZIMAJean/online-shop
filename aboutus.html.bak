@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		  <meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">	
+        <title>HOME MATERIAL ~SHOP</title>
+        <link rel="stylesheet" href="../css/styles.css">
+    </head>
+    <body>
+        <div class="nav">
+            <h2>HOME MATERIAL ONLINE SHOP</h2>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li class="active"><a href="aboutus.html">About us</a></li>
+                    <li><a href="contactus.html">Contact</a></li>
+                    <li><a href="login.html">Login</a></li>
+                    <li><a href="signup.html">Sign up</a></li>
+                </ul>
+            </nav>
+		</div>
+            <div class="about">
+                <h1>MISSION</h1>
+				The mission of your home materials shop should reflect your values, goals, and the unique services or products you offer. 
+				It can include:
+
+				<strong>Quality:</strong> Commitment to providing high-quality and durable home materials.
+				<strong>Customer Satisfaction:</strong> A focus on delivering excellent service and ensuring customers 
+				find what they need to create a comfortable home.
+				<strong>Sustainability:</strong> If relevant, emphasize eco-friendly materials or responsible sourcing.
+				<strong>Community Impact:</strong> Highlight how your shop supports local communities or contributes to local housing efforts.    
+				<br><br>
+				<h1>HISTORY</h1>
+				If this is a new venture, your “history” will be your journey towards opening the shop.
+				Consider documenting the steps and motivations behind starting the business. Key points might include:
+				<br>
+				<strong>Inception: </strong> Why did you decide to open a home materials shop?
+				<br>
+				(e.g., seeing a market need, passion for home improvement, or a family business legacy)
+				<br><br>
+				<strong>Growth Plan: </strong> What steps are you taking to build your business?<br>
+				(e.g., product sourcing, finding a location, obtaining licenses)
+				<br><br>
+				<strong>Challenges Overcome:</strong>  Mention any hurdles you’ve faced or expect to face, and 
+				how you plan to handle them.
+				<br><br>
+                <img src="../media/table-3.jpg">
+
+
+
+            </div>
+			<div class="pro-footer2">
+            <table>
+                <tr>
+                    <td><img src="../media/fb.png" width="50"></td><td><a href="#">Visit our facebook</a></td>
+            
+                    <td><img src="../media/ig.png" width="50"></td><td><a href="#">follow us on Instagram</a></td>
+
+                    <td><img src="../media/x.png" width="50"></td><td><a href="#">Join us on twitter</a></td>
+
+                    <td><img src="../media/wp.png" width="50"></td><td><a href="#">+250784987465</a></td>
+                </tr>
+                <tr> 
+                    <td colspan="4">&copy;Copyright 2024 Paul</td>
+                </tr>
+            </table>
+        </div>
+
+    </body>
+</html>

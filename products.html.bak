@@ -1,0 +1,330 @@
+<html></html>
+    <head>
+		 <meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">	
+        <title>HOME MATERIAL ~Products</title>
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
+    <body>
+        <div class="nav">
+            <h2>HOME MATERIAL ONLINE SHOP</h2>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li class="active"><a href="product.html">Product</a></li>
+                    <li><a href="aboutus.html">About us</a></li>
+                    <li><a href="conctactus.html">Contact</a></li>
+                    <li><a href="login.html">Login</a></li>
+                    <li><a href="signup.html">Sign up</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="pro-content">
+            <table>
+                <tr>
+                    <td>
+                        <img src="media/board.jpg" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/chair 4.jpg" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/chair-1.jpg" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/chair-2.jpg" width="300"><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Name:</td>
+                    <td>Name:chair 1</td>
+                    <td>Name:chair 2</td>
+                    <td>Name:chair 3</td>
+                </tr>
+                <tr>
+                    <td>Price:65,000FRW</td>
+                    <td>Price:90,000FRW</td>
+                    <td>Price:120,000FRW</td>
+                    <td>Price:150,000FRW</td>
+                </tr>
+                <tr>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="media/chair-3.jpg" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/pngwing.com.png" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/pngwing.com (1).png" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/pngwing.com (2).png" width="300"><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Name:chair 4</td>
+                    <td>Name:chair 5</td>
+                    <td>Name:chair 6</td>
+                    <td>Name:chair 7</td>
+                </tr>
+                <tr>
+                    <td>Price:100,000frw</td>
+                    <td>Price:135,000frw</td>
+                    <td>Price:200,000frw</td>
+                    <td>Price:300,000frw</td>
+                </tr>
+                <tr>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="media/pngwing.com (4).png" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/pngwing.com (3).png" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/pngwing.com (5).png" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/pngwing.com (6).png" width="300"><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Name:chair 8</td>
+                    <td>Name:chair 9</td>
+                    <td>Name:chair 10</td>
+                    <td>Name:chair 11</td>
+                </tr>
+                <tr>
+                    <td>Price:200,000frw</td>
+                    <td>Price:230,000frw</td>
+                    <td>Price:300,000frw</td>
+                    <td>Price:250,000frw</td>
+                </tr>
+                <tr>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="media/pngwing.com (7).png" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/pngwing.com (8).png" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/pngwing.com (9).png" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/pngwing.com.png" width="300"><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Name:frige 1</td>
+                    <td>Name:frige 2</td>
+                    <td>Name:frige 3</td>
+                    <td>Name: chair 13</td>
+                </tr>
+                <tr>
+                    <td>Price:500,000frw</td>
+                    <td>Price:500,000frw</td>
+                    <td>Price:500,000frw</td>
+                    <td>Price:500,000frw</td>
+                </tr>
+                <tr>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="media/table-1.jpg" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/table-2.jpg" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/table-3.jpg" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/table-4.jpg" width="300"><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Name:conference chair 1</td>
+                    <td>Name:conference chair 2</td>
+                    <td>Name:conference chair 3</td>
+                    <td>Name:conference chair 4</td>
+                </tr>
+                <tr>
+                    <td>Price:200,000frw</td>
+                    <td>Price:300,000frw</td>
+                    <td>Price:250,000frw</td>
+                    <td>Price:150,000frw</td>
+                </tr>
+                <tr>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="media/tv stand.jpg" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/tv.jpg" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/tv1.jpg" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/tv4.jpg" width="300"><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Name:tv cabinet</td>
+                    <td>Name:tv 1</td>
+                    <td>Name:tv 2</td>
+                    <td>Name:tv 3</td>
+                </tr>
+                <tr>
+                    <td>Price:200,000frw</td>
+                    <td>Price:500,000frw</td>
+                    <td>Price:400,000frw</td>
+                    <td>Price:250,000frw</td>
+                </tr>
+                <tr>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="media/wardrobe-2.jpg" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/wardlobe.jpg" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/wardrobe-1.jpg" width="300"><br>
+                    </td>
+                    <td>
+                        <img src="media/wardrobe-2.jpg" width="300"><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Name:wardlobe 1</td>
+                    <td>Name:wardlobe 2</td>
+                    <td>Name:wardlobe 3</td>
+                    <td>Name:wardlobe 4</td>
+                </tr>
+                <tr>
+                    <td>Price:350,000frw</td>
+                    <td>Price:500,000frw</td>
+                    <td>Price:700,000frw</td>
+                    <td>Price:450,000frw</td>
+                </tr>
+                <tr>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                    <td><button>Buy</button></td>
+                </tr>
+                <td>
+                    <img src="media/gas.jpg" width="300"><br>
+                </td>
+                <td>
+                    <img src="media/gas1.jpg" width="300"><br>
+                </td>
+                <td>
+                    <img src="media/gas2.jpg" width="300"><br>
+                </td>
+                <td>
+                    <img src="media/gas5.jpg" width="300"><br>
+                </td>
+            </tr>
+            <tr>
+                <td>Name:gas stoves 1</td>
+                <td>Name:gas stoves 2</td>
+                <td>Name:gas stoves 3</td>
+                <td>Name:gas stoves 4</td>
+            </tr>
+            <tr>
+                <td>Price:200,000frw</td>
+                <td>Price:700,000frw</td>
+                <td>Price:400,000frw</td>
+                <td>Price:60,000frw</td>
+            </tr>
+            <tr>
+                <td><button>Buy</button></td>
+                <td><button>Buy</button></td>
+                <td><button>Buy</button></td>
+                <td><button>Buy</button></td>
+            </tr>
+            <td>
+                <img src="../media/plate.jpg" width="300"><br>
+            </td>
+            <td>
+                <img src="../media/plate1.jpg" width="300"><br>
+            </td>
+            <td>
+                <img src="../media/plate2.jpg" width="300"><br>
+            </td>
+            <td>
+                <img src="../media/forks.jpg" width="300"><br>
+            </td>
+        </tr>
+        <tr>
+            <td>Name:plates 1</td>
+            <td>Name:plates 2</td>
+            <td>Name:plates 3</td>
+            <td>Name:forks</td>
+        </tr>
+        <tr>
+            <td>Price:7,000frw</td>
+            <td>Price:10,000frw</td>
+            <td>Price:150,000frw</td>
+            <td>Price:5,000frw</td>
+        </tr>
+        <tr>
+            <td><button>Buy</button></td>
+            <td><button>Buy</button></td>
+            <td><button>Buy</button></td>
+            <td><button>Buy</button></td>
+        </tr>
+
+            </table>
+        </div>
+        <div class="pro-footer">
+            <table>
+                <tr>
+                    <td><img src="../media/fb.png" width="50"></td><td><a href="https://web.facebook.com/">Visit our facebook</a></td>
+            
+                    <td><img src="../media/ig.png" width="50"></td><td><a href="https://www.bing.com/">follow us on Instagram</a></td>
+
+                    <td><img src="../media/x.png" width="50"></td><td><a href="https://twitter.com/">Join us on twitter</a></td>
+
+                    <td><img src="../media/wp.png" width="50"></td><td><a href="https://web.whatsapp.com/">+250789996818</a></td>
+                </tr>
+                <tr> 
+                    <td colspan="4">&copy;Copyright 2024 Eric</td>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html>
